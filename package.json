@@ -1,7 +1,7 @@
 {
   "name": "@singledogswap-libs/singledog-swap-core",
   "description": "🎛 Core contracts for the singledog protocol",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://www.sdog.io",
   "repository": {
     "type": "git",
